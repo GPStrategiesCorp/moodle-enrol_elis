@@ -29,4 +29,4 @@ $plugin->version = 2016052301;
 $plugin->release = '3.1.1.1 (Build: 20161101)';
 $plugin->component = 'enrol_elis';
 $plugin->maturity = MATURITY_STABLE;
-$plugin->requires = 2016052300;
+$plugin->requires = 2020122200;
